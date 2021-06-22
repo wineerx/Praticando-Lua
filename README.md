@@ -4,7 +4,7 @@
 
 ## Downloads e Referencias
 
-- Download do Lua para Windows: https://github.com/rjpcomputing/luafo...
+- Download do Lua para Windows: https://github.com/rjpcomputing/luaforwindows/releases
 - O que você irá aprender na parte 01
 - Instalação da linguagem Lua
 - Introdução a Lógica de Programação
