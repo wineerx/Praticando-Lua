@@ -34,4 +34,4 @@ print("Uma função sempre seguirá de parentes então para atribuir um valor a 
 -- 4 >
 print("É possivel citar números sem a necessidade de utilzar aspas.") => print(123456789) 
 
-Vídeo > 
+Vídeo > Vídeo ainda não Publicado
